@@ -1,0 +1,33 @@
+li {
+    display: inline-block;
+    padding: 1em;
+}
+
+ul {
+    margin: 0px;
+    display: inline-block;
+}
+
+nav {
+    background: black;
+    color: white;
+    margin: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+li:hover {
+    background: #009688;
+    cursor: pointer;
+}
+
+body {
+    margin: 0px;
+}
+
+article {
+    padding-left: 2em;
+    margin-top: 50px;
+    padding-top: 1em;
+}
