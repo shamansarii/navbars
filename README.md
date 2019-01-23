@@ -1,17 +1,17 @@
 NAVBARS
 -------
-
 You can see website here: https://shamansarii.github.io/navbars/
 
-## WORKSHOP
+### WORKSHOP
 
-IDEA - Let's make a super simple quote app appplication that runs on the web. You click in the div and get the information for that div. 
+1. The app is a soft navbars.Different navbars.
 
 ### INGREDIENTS
 
-To make this application, we're going to need to cover the following topics:
-  * HTML - The information represented on the page.
-  * CSS - The style or look of the information.
+The app MUST use:
+1. Google Fonts for fonts
 
-### SCREENSHOOT
+The CDNs of all ingredients, along with `style.css` files, have already been linked in the `<head>`.
+
+### SCREENSHOT
 
