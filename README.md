@@ -2,7 +2,7 @@ NAVBARS
 -------
 You can see website here: https://shamansarii.github.io/navbars/
 
-### WORKSHOP
+### APP FEATURES
 
 1. The app is a soft navbars.Different navbars.
 
